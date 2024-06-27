@@ -3,10 +3,13 @@
 Design by HTML,CSS(Tailwind Css),JAVASCRIPT
 
 ## How to install my project
-``bash
+```bash
+
  git clone <git_url>
+
  npm install
-``
+
+```
 
 * Desktop Responsive
   ![desktop](assets/desktop_responsive.png)
